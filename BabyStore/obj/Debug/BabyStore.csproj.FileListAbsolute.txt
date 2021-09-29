@@ -106,3 +106,7 @@ D:\CODING\__PLAYGROUND\ASP.NET.MVC\BabyStore\BabyStore\obj\Debug\BabyStore.cspro
 D:\CODING\__PLAYGROUND\ASP.NET.MVC\BabyStore\BabyStore\obj\Debug\BabyStore.csproj.CopyComplete
 D:\CODING\__PLAYGROUND\ASP.NET.MVC\BabyStore\BabyStore\obj\Debug\BabyStore.dll
 D:\CODING\__PLAYGROUND\ASP.NET.MVC\BabyStore\BabyStore\obj\Debug\BabyStore.pdb
+D:\CODING\__PLAYGROUND\ASP.NET.MVC\BabyStore\BabyStore\obj\Debug\BabyStore.Migrations.InitialDatabase.resources
+D:\CODING\__PLAYGROUND\ASP.NET.MVC\BabyStore\BabyStore\obj\Debug\BabyStore.csproj.GenerateResource.cache
+D:\CODING\__PLAYGROUND\ASP.NET.MVC\BabyStore\BabyStore\obj\Debug\BabyStore.Migrations.CategoryNameValidation.resources
+D:\CODING\__PLAYGROUND\ASP.NET.MVC\BabyStore\BabyStore\obj\Debug\BabyStore.Migrations.ProductValidation.resources
