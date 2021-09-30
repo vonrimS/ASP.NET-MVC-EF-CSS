@@ -110,3 +110,7 @@ D:\CODING\__PLAYGROUND\ASP.NET.MVC\BabyStore\BabyStore\obj\Debug\BabyStore.Migra
 D:\CODING\__PLAYGROUND\ASP.NET.MVC\BabyStore\BabyStore\obj\Debug\BabyStore.csproj.GenerateResource.cache
 D:\CODING\__PLAYGROUND\ASP.NET.MVC\BabyStore\BabyStore\obj\Debug\BabyStore.Migrations.CategoryNameValidation.resources
 D:\CODING\__PLAYGROUND\ASP.NET.MVC\BabyStore\BabyStore\obj\Debug\BabyStore.Migrations.ProductValidation.resources
+D:\CODING\__PLAYGROUND\ASP.NET.MVC\BabyStore\BabyStore\bin\PagedList.dll
+D:\CODING\__PLAYGROUND\ASP.NET.MVC\BabyStore\BabyStore\bin\PagedList.Mvc.dll
+D:\CODING\__PLAYGROUND\ASP.NET.MVC\BabyStore\BabyStore\bin\PagedList.xml
+D:\CODING\__PLAYGROUND\ASP.NET.MVC\BabyStore\BabyStore\bin\PagedList.Mvc.xml
